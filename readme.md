@@ -1,4 +1,4 @@
-# Spring PetClinic Sample Application [![Java CI with Maven]//(https://github.com/LyubovVladimirovna/spring-petclinic/actions/workflows/maven.yml/badge.svg)]//(https://github.com/LyubovVladimirovna/spring-petclinic/actions/workflows/maven.yml)
+# Spring PetClinic Sample Application [![Java CI with Maven](https://github.com/LyubovVladimirovna/spring-petclinic/actions/workflows/maven.yml/badge.svg)](https://github.com/LyubovVladimirovna/spring-petclinic/actions/workflows/maven.yml)
 
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
