@@ -29,9 +29,10 @@ https://github.com/LyubovVladimirovna/spring-petclinic/blob/master/Dockerfile
 5 pts A section of the stack trace generated when you attempt to run the application container that has been updated to use MySQL.
 ![Screen Capture a section of the stack trace generated when attempting to run the application container that has been updated to use MySQL.#6](imageshw5/Picture6.png)
 5 pts Your updated docker-compose.yml file containing the application server, built from your local Docker file, and the existing MySQL configuration. Please provide a link
-to this file rather than a screen capture.
+to this file rather than a screen capture.https://github.com/LyubovVladimirovna/spring-petclinic/blob/master/docker-compose.yml
 ![Screen Capture of updated docker-compose.yml file and the link containing the application server, built from local Docker file, and the existing MySQL configuration. #7](imageshw5/Picture7.png)
 5 pts Your updated application-mysql.properties file containing the URL change for the database server. Please provide a link to this file rather than a screen capture.
+https://github.com/LyubovVladimirovna/spring-petclinic/blob/master/src/main/resources/application-mysql.properties
 ![Screen Capture of updated application-mysql.properties file and link containing the URL change for the database server. #8](imageshw5/Picture8.png)
 5 pts The output from the docker-compose up command.
 ![Screen Capture of the output from the docker-compose up command. #9](imageshw5/Picture9.png)
