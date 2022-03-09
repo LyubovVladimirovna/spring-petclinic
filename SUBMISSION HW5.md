@@ -1,34 +1,43 @@
  Lyubov Chebotareva Student ID 2023534
  ~~~
  Screenshot list
-![Screen Capture of GitHub account showing that is has been forked from the depaulcdm/springpetclinic repository #1](imageshw5/1.png)
-![Screen Capture of GitHub Actions dashboard showing a successful first build #2 ](imageshw5/2.png)
-![Screen Capture of GitHub repository with the readme.md file selected showing the code that you changed to update the badge #3](imageshw5/3.png)
-![Screen Capture of  GitHub repository with the readme.md file selected showing the build success status after you’ve updated the badge markdown #4](imageshw5/4.png)
-![Screen Capture of the section of the POM file showing the coordinates after I have commented them out #5](imageshw5/5.png)
-![Screen Capture of GitHub Actions dashboard showing the unsuccessful build after the breaking change #6](imageshw5/6.png)
-![Screen Capture of GitHub repository with the readme.md file selected showing the build failed status after the GitHub workflow fails  #7](imageshw5/7.png)
-![Screen Capture of The section of the POM file showing the coordinates after I have fixed them  #8](imageshw5/8.png)
-![Screen Capture of GitHub Actions dashboard showing the successful build after the breaking change has been fixed #9](imageshw5/9.png)
-![Screen Capture of GitHub repository with the readme.md file selected showing the build success status after the GitHub workflow has recovered #10](imageshw5/10.png)
+![Screen Capture  and a link of docker file  #1](imageshw5/Picture1.png)
+![Screen Capture of running docker instance as shown by a ps command #2 ](imageshw5/Picture2.png)
+![Screen Capture of the browser accessing the main page of the website from my local container #3](imageshw5/Picture3.png)
+![Screen Capture of the output from the docker-compose up command. #4](imageshw5/Picture4.png)
+![Screen Capture of the output from the docker-compose up command. #4](imageshw5/Picture4.1.png)
+![Screen Capture of the browser accessing the \Veterinarians" page of the website from your local container when running the application from the host system.#5](imageshw5/Picture5.png)
+![Screen Capture a section of the stack trace generated when attempting to run the application container that has been updated to use MySQL.#6](imageshw5/Picture6.png)
+![Screen Capture of updated docker-compose.yml file and the link containing the application server, built from local Docker file, and the existing MySQL configuration. #7](imageshw5/Picture7.png)
+![Screen Capture of updated application-mysql.properties file and link containing the URL change for the database server. #8](imageshw5/Picture8.png)
+![Screen Capture of the output from the docker-compose up command. #9](imageshw5/Picture9.png)
+![Screen Capture of browser accessing the \Veterinarians" page of the website from the local container. #10](imageshw5/Picture10.png)
+![Screen Capture of browser accessing the \Veterinarians" page of the website from the local container. #10](imageshw5/Picture10.1.png)
 ~~~
-5 pts Your GitHub account showing that is has been forked from the depaulcdm/springpetclinic repository. 
-![Screen Capture of GitHub account showing that is has been forked from the depaulcdm/springpetclinic repository #1](imageshw5/1.png)
-5 pts Your GitHub Actions dashboard showing a successful first build.
-![Screen Capture of GitHub Actions dashboard showing a successful first build #2 ](imageshw5/2.png)
-5 pts Your GitHub repository with the readme.md file selected showing the code that you changed to update the badge.
-![Screen Capture of GitHub repository with the readme.md file selected showing the code that you changed to update the badge #3](imageshw5/3.png)
-5 pts Your GitHub repository with the readme.md file selected showing the build success status after you’ve updated the badge markdown.
-![Screen Capture of  GitHub repository with the readme.md file selected showing the build success status after you’ve updated the badge markdown #4](imageshw5/4.png)
-5 pts The section of the POM file showing the coordinates after you’ve commented them out.
-![Screen Capture of the section of the POM file showing the coordinates after I have commented them out #5](imageshw5/5.png)
-5 pts Your GitHub Actions dashboard showing the unsuccessful build after the breaking change.
-![Screen Capture of GitHub Actions dashboard showing the unsuccessful build after the breaking change #6](imageshw5/6.png)
-5 pts Your GitHub repository with the readme.md file selected showing the build failed status after the GitHub workflow fails.
-![Screen Capture of GitHub repository with the readme.md file selected showing the build failed status after the GitHub workflow fails  #7](imageshw5/7.png)
-5 pts The section of the POM file showing the coordinates after you’ve fixed them.
-![Screen Capture of The section of the POM file showing the coordinates after I have fixed them  #8](imageshw5/8.png)
-5 pts Your GitHub Actions dashboard showing the successful build after the breaking change has been fixed.
-![Screen Capture of GitHub Actions dashboard showing the successful build after the breaking change has been fixed #9](imageshw5/9.png)
-5 pts Your GitHub repository with the readme.md file selected showing the build success status after the GitHub workflow has recovered.
-![Screen Capture of GitHub repository with the readme.md file selected showing the build success status after the GitHub workflow has recovered #10](imageshw5/10.png)
+5 pts Your docker file. Please provide a link to this file rather than a screen capture.
+spring-petclinic/Dockerfile at master · LyubovVladimirovna/spring-petclinic (github.com)
+![Screen Capture  and a link of docker file  #1](imageshw5/Picture1.png)
+5 pts Your running docker instance as shown by a ps command.
+![Screen Capture of running docker instance as shown by a ps command #2](imageshw5/Picture2.png)
+5 pts Your browser accessing the main page of the website from your local container.
+![Screen Capture of the browser accessing the main page of the website from my local container #3](imageshw5/Picture3.png)
+5 pts The output from the docker-compose up command
+![Screen Capture of the output from the docker-compose up command. #4](imageshw5/Picture4.png)
+![Screen Capture of the output from the docker-compose up command. #4](imageshw5/Picture4.1.png)
+5 pts Your browser accessing the \Veterinarians" page of the website from your local container when you run the application from the host system.
+![Screen Capture of the browser accessing the \Veterinarians" page of the website from your local container when running the application from the host system.#5](imageshw5/Picture5.png)
+5 pts A section of the stack trace generated when you attempt to run the application container that has been updated to use MySQL.
+![Screen Capture a section of the stack trace generated when attempting to run the application container that has been updated to use MySQL.#6](imageshw5/Picture6.png)
+5 pts Your updated docker-compose.yml file containing the application server, built from your local Docker file, and the existing MySQL configuration. Please provide a link
+to this file rather than a screen capture.
+spring-petclinic/docker-compose.yml at master · LyubovVladimirovna/spring-petclinic (github.com)
+![Screen Capture of updated docker-compose.yml file and the link containing the application server, built from local Docker file, and the existing MySQL configuration. #7](imageshw5/Picture7.png)
+5 pts Your updated application-mysql.properties file containing the URL change for the database server. Please provide a link to this file rather than a screen capture.
+spring-petclinic/application-mysql.properties at master · LyubovVladimirovna/spring-petclinic (github.com)
+![Screen Capture of updated application-mysql.properties file and link containing the URL change for the database server. #8](imageshw5/Picture8.png)
+5 pts The output from the docker-compose up command.
+![Screen Capture of the output from the docker-compose up command. #9](imageshw5/Picture9.png)
+5 pts Your browser accessing the \Veterinarians" page of the website from your local con-
+tainer.
+![Screen Capture of browser accessing the \Veterinarians" page of the website from the local container. #10](imageshw5/Picture10.png)
+![Screen Capture of browser accessing the \Veterinarians" page of the website from the local container. #10](imageshw5/Picture10.1.png)
