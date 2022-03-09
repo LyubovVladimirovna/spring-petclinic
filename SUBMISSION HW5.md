@@ -15,6 +15,7 @@
 ![Screen Capture of browser accessing the \Veterinarians" page of the website from the local container. #10](imageshw5/Picture10.1.png)
 ~~~
 5 pts Your docker file. Please provide a link to this file rather than a screen capture.
+https://github.com/LyubovVladimirovna/spring-petclinic/blob/master/Dockerfile
 ![Screen Capture  and a link of docker file  #1](imageshw5/Picture1.png)
 5 pts Your running docker instance as shown by a ps command.
 ![Screen Capture of running docker instance as shown by a ps command #2](imageshw5/Picture2.png)
